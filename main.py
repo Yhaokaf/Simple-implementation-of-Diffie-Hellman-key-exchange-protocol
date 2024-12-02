@@ -149,7 +149,7 @@ def main():
 
     st.title('🔐 Diffie-Hellman Key Exchange Demo', anchor="top")
     # 添加创作者信息
-    st.markdown("**小组成员**: 20221152 李昊轩， 20221587 史亚涛", unsafe_allow_html=True)
+    st.markdown("**小组成员**: 20221485 李昊轩， 20221587 史亚涛", unsafe_allow_html=True)
     st.markdown("**指导老师**: 陈欣", unsafe_allow_html=True)
 
     # Step 1: 选择素数p和原根g
